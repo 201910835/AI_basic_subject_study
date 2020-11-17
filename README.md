@@ -1,1 +1,1 @@
-# AI_basic_subject_study
+# 인공지능 기초
